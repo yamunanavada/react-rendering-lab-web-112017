@@ -25,6 +25,8 @@ class Survey extends React.Component {
 
   maintainRating = () => this.forceUpdate();
 
+  
+
   render() {
     return (
       <div>
